@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Pooh\\Desktop\\HuanXinDemo0708\\easeui\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Pooh\\.android\\build-cache\\92c68cde3ba921a4a4ea938a9b312e0363cf0dd1\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "X:\\Yf20170616\\Companey\\bb\\easeui\\easeui\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "X:\\Yf20170616\\Companey\\bb\\easeui\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "X:\\Yf20170616\\Companey\\bb\\easeui\\easeui\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "X:\\Yf20170616\\Companey\\bb\\easeui\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pooh\\Desktop\\HuanXinDemo0708\\easeui\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Pooh\\.android\\build-cache\\92c68cde3ba921a4a4ea938a9b312e0363cf0dd1\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
